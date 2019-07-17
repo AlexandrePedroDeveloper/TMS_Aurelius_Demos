@@ -1,4 +1,4 @@
-# TMS-Aurelius-Demo-ManagerViewer
+# TMS Aurelius - Demo - ManagerViewer
 TMS Aurelius - Demo - Manager Viewer 
 
 https://github.com/tmssoftware/TMS-Aurelius-demos/tree/master/manager-viewer
