@@ -1,0 +1,8 @@
+
+TMS Aurelius
+https://www.tmssoftware.com/site/aurelius.asp
+
+
+Acessar o site para baixar a versão específica do Delphi que for compilar o exemplo.
+Nesta pasta esta o instalador da versão Trial v4.7 (June 22, 2019) para o Delphi 10.3 Rio.
+

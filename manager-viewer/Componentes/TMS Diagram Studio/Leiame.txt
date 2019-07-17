@@ -1,0 +1,8 @@
+
+
+Componente TMS Diagram Studio
+https://www.tmssoftware.com/site/diagram.asp
+
+Acessar o site para baixar o instalador específico da versão do Delphi que estiver utilizando.
+Nesta pasta, esta o instalador para o Delphi 10.3 Rio.
+
